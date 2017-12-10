@@ -1,9 +1,9 @@
 //
 //  ViewController.m
-//  YJ_渐变demo
+//  CLGradientDemo
 //
-//  Created by yangjian on 2017/2/5.
-//  Copyright © 2017年 yangjian. All rights reserved.
+//  Created by zyyt on 17/2/8.
+//  Copyright © 2017年 conglei. All rights reserved.
 //
 
 #import "ViewController.h"

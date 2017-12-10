@@ -1,9 +1,9 @@
 //
 //  UIView+Extension.m
-//  MJRefreshExample
+//  CLGradientDemo
 //
-//  Created by MJ Lee on 14-5-28.
-//  Copyright (c) 2014年 itcast. All rights reserved.
+//  Created by zyyt on 17/2/8.
+//  Copyright © 2017年 conglei. All rights reserved.
 //
 
 #import "UIView+Extension.h"
